@@ -1,0 +1,8 @@
+Textures used are from textures.com
+
+Sound Effects were recorded and edited by me (Zachary Andrews) with the software Audacity
+
+Meshes were imported from a CIT440 project
+
+Background Music is "SegyBabo" by Mello C - I did edit the orgional audio to reduce the speed with the use of Audacity
+https://freemusicarchive.org/music/mello-c/concept-beats-vol-2-deporaju/segybabo
